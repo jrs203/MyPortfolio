@@ -1,0 +1,32 @@
+.navbar {
+  box-shadow: 2px 2px 5px #a8dadc;
+  opacity: 0.9;
+  background: #1d3557; }
+  .navbar .nav-item {
+    font-size: 1.4rem;
+    padding-right: 1.4rem; }
+
+body {
+  margin-top: 108px;
+  background-color: aliceblue; }
+
+#showcase {
+  position: relative;
+  background: url("../img/blueblocks.jpeg");
+  min-height: 600px; }
+  #showcase .primary-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+#middle {
+  background-color: #98c1d9; }
+
+#middleimg {
+  border: 5px solid #1d3557; }
+
+#contact-section {
+  background: #1d3557;
+  color: #fff; }
